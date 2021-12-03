@@ -1,18 +1,18 @@
 ## Backend Take Home Challenge
 
-<b>Problem</b> HustleSasa needs build a referal system that is linked to a profile
-
-<a href="https://docs.google.com/presentation/d/1Jb3OL2JcGnXt8bltDzmZ8JN8D5wvryRJ94S5Oky1KEI/edit?usp=sharing">Design Link</a>
+<b>Problem</b> HustleSasa needs build a referal system  that allows users to give their friends discounts using python flask
 
 <b>Requirements</b>
 
-1. Create a profile <a href="https://run.mocky.io/v3/5194b007-b9b9-4748-a63f-f5db0ee4cd47">Mock data</a>
-2. create a refferal code
-3. 
+1. Write migrations for dummy data in csv file
+2. Create model for users with auto generated refferal codes.
+3. Create functionality to redeem refferal codes.
+4. Write unit and functional tests for all models. 
 
 <b>Nice to haves</b>
-
-1. a
+1. Refferal codes should be limited to one use
+2. Refferal codes should expire after 48 hours if not used.
+3. Feel free to explore other functionalities.
 
 <b>Deliverables</b>
 
